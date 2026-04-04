@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sharaf</h1>
-<h3 align="center">Bioinformatics Student | AI Developer | Programmer</h3>
+<h3 align="center"Artificial intelligence>Student | AI Developer | Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Python+Developer;Machine+Learning+Learner;Always+Building+Projects+🚀" />
