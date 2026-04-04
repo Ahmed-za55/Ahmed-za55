@@ -8,7 +8,7 @@
 ---
 
 ## 👤 About Me | عني
-- 🎓 **Bioinformatics Student** at Kafrelsheikh University  
+- 🎓 **Artificial intelligence Student** at Kafrelsheikh University  
 - 🤖 Passionate about AI & Machine Learning  
 - 🐍 Skilled in Python, C++, and Web Development  
 - 💻 Currently working on: **Heart Disease Prediction Project** ---
